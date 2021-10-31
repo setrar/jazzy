@@ -22,5 +22,11 @@ packages: .
           ~/Developer/Euterpea2
 ```
 
+## :a: Run the project
+
+```
+cabal run
+```
+
 # References
 
