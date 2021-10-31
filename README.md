@@ -1,7 +1,9 @@
 # jazzy
 Toy project to play with Euterpea
 
-## - [ ] cabal.project
+## [Install a local package](https://stackoverflow.com/questions/63770578/how-do-you-get-cabal-to-install-a-local-package) 
+
+cabal.project
 
 ```yaml
 packages: .
@@ -10,4 +12,3 @@ packages: .
 
 # References
 
-https://stackoverflow.com/questions/63770578/how-do-you-get-cabal-to-install-a-local-package
