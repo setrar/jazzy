@@ -21,7 +21,7 @@ https://www.plogue.com/products/sforzando.html
 
 
 
--- <img src=images/AudioMidiSetup.png width=1106 height=642 > </img>
+ <img src='images/AudioMidiSetup.png' width='1106' height='642' ></img>
 
 ![image](images/AudioMidiSetup.png)
 
