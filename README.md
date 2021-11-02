@@ -30,3 +30,5 @@ cabal run
 
 # References
 
+https://cabal.readthedocs.io/en/3.6/cabal-commands.html#cabal-v2-run
+
