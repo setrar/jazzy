@@ -47,3 +47,7 @@ Output devices:
 ```
 *MyLib Euterpea> play $ line [c 4 qn, c 4 qn, g 4 qn, g 4 qn, a 4 qn, a 4 qn, g 4 hn]
 ```
+
+```
+*MyLib Euterpea> playDev 4 $ line [c 4 qn, c 4 qn, g 4 qn, g 4 qn, a 4 qn, a 4 qn, g 4 hn]
+```
