@@ -17,11 +17,7 @@ https://www.plogue.com/products/sforzando.html
 
 :bookmark: References [FP-30 Quick Start 07 "Bluetooth"](https://www.youtube.com/watch?v=OtDxVKbbnFo&t=22s)
 
-
-
-
-
- <img src='images/AudioMidiSetup.png' width='1106' height='642' ></img>
+<img src="images/AudioMidiSetup.png" width=1106 height=642></img>
 
 ![image](images/AudioMidiSetup.png)
 
