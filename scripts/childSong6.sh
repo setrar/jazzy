@@ -56,4 +56,4 @@ childSong6 =  let t = (dhn/qn)*(69/120)
                              (tempo t (bassLine :=: mainVoice))
 
 main :: IO ()
-main = writeMidi "docs/childSong6.mid" $ cut 24 childSong6
+main = writeMidi "docs/midi/childSong6.mid" $ cut 24 childSong6

@@ -19,8 +19,8 @@ sine440 =
       returnA -< y
 
 main :: IO ()
-main = outFile "docs/script-sine440.wav" 2.0 sine440
+main = outFile "docs/sound/script-sine440.wav" 2.0 sine440
 
 -- main :: IO ()
 -- main = do
---    putStrLn ("Toto")
+--    putStrLn ("440Hz")
