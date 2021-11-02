@@ -28,6 +28,16 @@ packages: .
 cabal run
 ```
 
+## :b: Run the scripts
+
+```
+cabal run scripts/script.sh 
+```
+
+```
+cabal run scripts/childSong6.sh 
+```
+
 # References
 
 https://cabal.readthedocs.io/en/3.6/cabal-commands.html#cabal-v2-run
