@@ -28,30 +28,22 @@ Build profile: -w ghc-8.10.7 -O1
 ...
 ```
 
-```
-*Jazzkell> import Euterpea
-```
 
 ```
-*Jazzkell Euterpea> devices
+*MyLib> import Euterpea
+
+*MyLib Euterpea> devices
 
 Input devices: 
+  InputDeviceID 0	FP-30 Bluetooth
+  InputDeviceID 1	VMPK Output
 
 Output devices: 
-  OutputDeviceID 0	SimpleSynth virtual input
+  OutputDeviceID 2	FP-30 Bluetooth
+  OutputDeviceID 3	VMPK Input
+  OutputDeviceID 4	sforzando
 ```
 
-
 ```
-*Jazzkell> import Euterpea
-*Jazzkell Euterpea> devices
-
-Input devices: 
-
-Output devices: 
-  OutputDeviceID 0	sforzando
-
-*Jazzkell Euterpea> play $ line [c 4 qn, c 4 qn, g 4 qn, g 4 qn, a 4 qn, a 4 qn, g 4 hn]
+*MyLib Euterpea> play $ line [c 4 qn, c 4 qn, g 4 qn, g 4 qn, a 4 qn, a 4 qn, g 4 hn]
 ```
-
-
