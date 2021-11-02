@@ -38,6 +38,22 @@ cabal run scripts/script.sh
 cabal run scripts/childSong6.sh 
 ```
 
+## :ab: Run the `REPL` (i.e. the GHCi - Interactive)
+
+Using `cabal` to catch the libraries, run:
+
+```
+cabal repl
+```
+
+* Execute the few lines below, without the prompt (prompt beind the string preceding the `>` character)
+
+```
+*MyLib> import Euterpea
+*MyLib Euterpea> play $ c 3 qn
+*MyLib Euterpea> play $ line [ c 3 qn, e 3 qn, g 3 qn ]
+```
+
 # References
 
 https://cabal.readthedocs.io/en/3.6/cabal-commands.html#cabal-v2-run
