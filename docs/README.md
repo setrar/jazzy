@@ -2,15 +2,26 @@
 
 - [ ] Install Devices
 
-* vmpk
+:one: Install `vmpk` using brew package manager
 
 ```
 brew install vmpk
 ```
 
-* Sforzando
+:two: Install `Sforzando` manually
 
 https://www.plogue.com/products/sforzando.html
+
+:three: Install a bluetooth device on :apple: `Mac`
+
+
+:bookmark: References [FP-30 Quick Start 07 "Bluetooth"](https://www.youtube.com/watch?v=OtDxVKbbnFo&t=22s)
+
+
+
+
+
+<img src="images/AudioMidiSetup.png" width=1106 height=642 ></img>
 
 
 - [ ] Install ghci version 8.6.5 see [Installation](http://www.euterpea.com/download-and-installation/) for details (old)
