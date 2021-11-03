@@ -1,5 +1,5 @@
 # jazzy
-Toy project to play with Euterpea
+Toy project to play with [Euterpea](https://www.euterpea.com/)
 
 ## :o: [Install a local package](https://stackoverflow.com/questions/63770578/how-do-you-get-cabal-to-install-a-local-package) 
 
