@@ -14,6 +14,7 @@ https://www.plogue.com/products/sforzando.html
 
 :three: Install a bluetooth device on :apple: `Mac`
 
+<img src="images/SystemPreferencesBluetooth.png" width="379" height="267" alt="System Preferences Bluetooth"></img>
 
 :bookmark: References [FP-30 Quick Start 07 "Bluetooth"](https://www.youtube.com/watch?v=OtDxVKbbnFo&t=22s)
 
@@ -21,9 +22,9 @@ https://www.plogue.com/products/sforzando.html
 
 <img src="images/MIDIStudioBluetoothConfiguration.png" width="389" height="195" alt="AUDI Midi Setup"></img>
 
-<img src="images/MIDIStudioFP-30DriverProperties.png" width="" height="" alt=""></img>
-<img src="images/SystemPreferencesBluetooth.png" width="" height="" alt=""></img>
-<img src="images/MIDIStudioFP-30Driver.png" width="" height="" alt=""></img>
+<img src="images/MIDIStudioFP-30Driver.png" width="297" height="177" alt=""></img>
+
+<img src="images/MIDIStudioFP-30DriverProperties.png" width="294" height="311" alt=""></img>
 
 
 - [ ] Install ghci version 8.6.5 see [Installation](http://www.euterpea.com/download-and-installation/) for details (old)
