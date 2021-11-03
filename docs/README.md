@@ -41,7 +41,11 @@ https://www.plogue.com/products/sforzando.html
 
 <img src="images/MIDIStudioBluetoothConfiguration.png" width="389" height="195" alt="AUDI Midi Setup"></img>
 
+- [ ] Check the `bluetooth` device appears in the window
+
 <img src="images/MIDIStudioFP-30Driver.png" width="297" height="177" alt=""></img>
+
+- [ ] Edit the `bluetooth` device, or leave at `default` settings
 
 <img src="images/MIDIStudioFP-30DriverProperties.png" width="294" height="311" alt=""></img>
 
