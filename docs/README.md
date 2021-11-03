@@ -37,7 +37,7 @@ https://www.plogue.com/products/sforzando.html
 
 <img src="images/AudioMidiSetup.png" width="276" height="160" alt="AUDI Midi Setup"></img>
 
-- [ ] Open the `MIDI Studio` View
+- [ ] Open the `MIDI Studio` View and connect :one: :two: :three:
 
 <img src="images/MIDIStudioBluetoothConfiguration.png" width="389" height="195" alt="AUDI Midi Setup"></img>
 
