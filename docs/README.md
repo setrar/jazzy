@@ -33,6 +33,8 @@ https://www.plogue.com/products/sforzando.html
 
 :bulb: The `Function` button on the Roland FP-30 should turn blue :blue_square:
 
+- [ ] Open the `Audio MIDI Setup` Application Utility using `Spotlight Search` CMD+SPACE
+
 <img src="images/AudioMidiSetup.png" width="276" height="160" alt="AUDI Midi Setup"></img>
 
 <img src="images/MIDIStudioBluetoothConfiguration.png" width="389" height="195" alt="AUDI Midi Setup"></img>
