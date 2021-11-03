@@ -27,7 +27,7 @@ https://www.plogue.com/products/sforzando.html
 
 :bookmark: References [FP-30 Quick Start 07 "Bluetooth"](https://www.youtube.com/watch?v=OtDxVKbbnFo&t=22s)
 
-- [ ] Connect the `bluetooth` device through the Mac's :gear: `System Preferences` 
+- [ ] Connect the `Bluetooth` device through the Mac's :gear: `System Preferences` 
 
 <img src="images/SystemPreferencesBluetooth.png" width="379" height="267" alt="System Preferences Bluetooth"></img>
 
