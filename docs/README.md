@@ -19,7 +19,7 @@ https://www.plogue.com/products/sforzando.html
 
 - [ ] Enable `bluetooth` on a device - for example on the [Roland FP-30](https://www.roland.com/ca/products/fp-30/)
 
-* Switch the Device on
+* Switch the Device on :musical_keyboard:
 * press `Function` key and `A0` key together to put Midi `On` (`A1` to Switch `Off` Midi)
 * press `Function` key and `C1` key together to `Transmit` and `Receive` MIDI messages
 
