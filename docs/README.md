@@ -17,7 +17,7 @@ https://www.plogue.com/products/sforzando.html
 
 :zero: Install a bluetooth device on :apple: `Mac`
 
-- [ ] Enable `bluetooth` on a device - for example the [Roland FP-30](https://www.roland.com/ca/products/fp-30/)
+- [ ] Enable `bluetooth` on a device - for example on the [Roland FP-30](https://www.roland.com/ca/products/fp-30/)
 
 * Switch the Device on
 * press `Function` key and `A0` key together to put Midi `On` (`A1` to Switch `Off` Midi)
