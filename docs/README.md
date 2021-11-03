@@ -83,11 +83,14 @@ Output devices:
   OutputDeviceID 4	sforzando
 ```
 
-- [ ] Play a tune using the default MIDI device :id: :zero:
+- [ ] Play a tune using the default MIDI device - :id: :zero:
 
 ```
 *MyLib Euterpea> play $ line [c 4 qn, c 4 qn, g 4 qn, g 4 qn, a 4 qn, a 4 qn, g 4 hn]
 ```
+
+- [ ] Play a tune by selectind the MIDI device - :id: :four:
+
 
 ```
 *MyLib Euterpea> playDev 4 $ line [f 4 qn , f 4 qn, e 4 qn, e 4 qn, d 4 qn, d 4 qn, c 4 wn ]
