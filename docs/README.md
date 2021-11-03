@@ -21,6 +21,10 @@ https://www.plogue.com/products/sforzando.html
 
 <img src="images/MIDIStudioBluetoothConfiguration.png" width="389" height="195" alt="AUDI Midi Setup"></img>
 
+<img src="images/MIDIStudioFP-30DriverProperties.png" width="" height="" alt=""></img>
+<img src="images/SystemPreferencesBluetooth.png" width="" height="" alt=""></img>
+<img src="images/MIDIStudioFP-30Driver.png" width="" height="" alt=""></img>
+
 
 - [ ] Install ghci version 8.6.5 see [Installation](http://www.euterpea.com/download-and-installation/) for details (old)
 
