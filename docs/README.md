@@ -17,9 +17,9 @@ https://www.plogue.com/products/sforzando.html
 
 :zero: Install a bluetooth device on :apple: `Mac`
 
-- [ ] Enable `bluetooth` on a device - for example on the [Roland FP-30](https://www.roland.com/ca/products/fp-30/)
+- [ ] :musical_keyboard: Enable `bluetooth` on a device - for example on the [Roland FP-30](https://www.roland.com/ca/products/fp-30/)
 
-* Switch the Device on :musical_keyboard:
+* Switch the Device `ON`
 * press `Function` key and `A0` key together to put Midi `On` (`A1` to Switch `Off` Midi)
 * press `Function` key and `C1` key together to `Transmit` and `Receive` MIDI messages
 
@@ -29,6 +29,7 @@ https://www.plogue.com/products/sforzando.html
 
 <img src="images/SystemPreferencesBluetooth.png" width="379" height="267" alt="System Preferences Bluetooth"></img>
 
+:bulb: The `Function` button on the Roland FP-30 should turn blue :blue_square:
 
 <img src="images/AudioMidiSetup.png" width="276" height="160" alt="AUDI Midi Setup"></img>
 
