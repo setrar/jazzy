@@ -50,7 +50,11 @@ https://www.plogue.com/products/sforzando.html
 <img src="images/MIDIStudioFP-30DriverProperties.png" width="294" height="311" alt=""></img>
 
 
-- [ ] Install ghci version 8.6.5 see [Installation](http://www.euterpea.com/download-and-installation/) for details (old)
+- [x] Install ghci version 8.6.5 see [Installation](http://www.euterpea.com/download-and-installation/) for details (old)
+
+## :b: Start the `REPL` 
+
+- [ ] start the `cabal` REPL to capture all the libraries
 
 ```
 % cabal repl
@@ -58,10 +62,15 @@ Build profile: -w ghc-8.10.7 -O1
 ...
 ```
 
+- [ ] import `Euterpea` Library
 
 ```
 *MyLib> import Euterpea
+```
 
+- [ ] Read the `MIDI` Devices
+
+```
 *MyLib Euterpea> devices
 
 Input devices: 
@@ -73,6 +82,8 @@ Output devices:
   OutputDeviceID 3	VMPK Input
   OutputDeviceID 4	sforzando
 ```
+
+- [ ] Play a tune using the default MIDI device :id: :zero:
 
 ```
 *MyLib Euterpea> play $ line [c 4 qn, c 4 qn, g 4 qn, g 4 qn, a 4 qn, a 4 qn, g 4 hn]
