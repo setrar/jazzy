@@ -1,6 +1,6 @@
-## Midi Setup
+# Midi Setup
 
-- [ ] Install Devices
+## :o: Install Applications
 
 :one: Install `vmpk` using brew package manager
 
@@ -12,7 +12,17 @@ brew install vmpk
 
 https://www.plogue.com/products/sforzando.html
 
-:three: Install a bluetooth device on :apple: `Mac`
+
+## :a: Install Devices 
+
+:zero: Install a bluetooth device on :apple: `Mac`
+
+- [ ] Connect a `bluetooth` device for example the [Roland FP-30](https://www.roland.com/ca/products/fp-30/)
+
+
+* Switch the Device on
+* press `Function` key and `A0` key together to put Midi `On` (`A1` to Switch `Off` Midi)
+* press `Function` key and `C1` key together to `Transmit` and `Receive` MIDI messages
 
 <img src="images/SystemPreferencesBluetooth.png" width="379" height="267" alt="System Preferences Bluetooth"></img>
 
